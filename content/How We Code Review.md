@@ -1,3 +1,8 @@
+---
+lastmod: '2024-11-27 13:22:51'
+title: How We Code Review
+---
+
 > This has been written and rewritten a couple times for a handful of different teams. Consider it a starting place/template
 
 All of our engineering work makes it to production by first passing through a code review. No line of code is too small or inconsequential to bypass this part of our product lifecycle. We should be aiming for quick turn around on code review and merging/deploying. Firstly, it feels great to have momentum on work. Secondly, it prevents existing work from getting stale, rotting away in a PR. But most importantly, work isn’t done until it is merged, so helping your coworkers get their things across the line is the most important thing you can be doing!
@@ -30,3 +35,8 @@ A code review is our first line of defense when it comes to shipping high qualit
 2. Use standup. Standup is the premium opportunity to tell people you will need code review. If your ticket is on the critical path, they should be more than happy to prioritize code review that day
 3. When all else fails, send an invite to block time on people’s calendars to code review your work.
 
+---
+Origin:  Wrote the first version at [[The Wing]]
+References:  [[Code Review]]
+Tags: #inbox/in-progress #blog/publish
+Created: [[2024-04-15]]

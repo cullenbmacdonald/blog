@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Cullen MacDonald</title>
+      <link>https://blog.cullenmacdonald.com</link>
+      <description>Last 10 notes on Cullen MacDonald</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Bottlenecks and Pull Requests</title>
+    <link>https://blog.cullenmacdonald.com/bottlenecks-and-pull-requests</link>
+    <guid>https://blog.cullenmacdonald.com/bottlenecks-and-pull-requests</guid>
+    <description>This post was originally a response to a long comment on the parent post about why “all PRs must point at main”. Let me start by saying my thinking is actually more of a belief.</description>
+    <pubDate>Wed, 27 Nov 2024 14:15:11 GMT</pubDate>
+  </item><item>
+    <title>Value Based Velocity</title>
+    <link>https://blog.cullenmacdonald.com/value-based-velocity</link>
+    <guid>https://blog.cullenmacdonald.com/value-based-velocity</guid>
+    <description>Ok so we want to measure our velocity in terms of value shipped, but how do you do that? Here is one such way. I encourage you to to take this and create a new sprint process for your team or (better yet) fit it into your current process.</description>
+    <pubDate>Wed, 27 Nov 2024 14:15:11 GMT</pubDate>
+  </item><item>
+    <title>Things To Follow</title>
+    <link>https://blog.cullenmacdonald.com/things-to-follow</link>
+    <guid>https://blog.cullenmacdonald.com/things-to-follow</guid>
+    <description>...</description>
+    <pubDate>Wed, 27 Nov 2024 14:15:11 GMT</pubDate>
+  </item><item>
+    <title>How We Code Review</title>
+    <link>https://blog.cullenmacdonald.com/how-we-code-review</link>
+    <guid>https://blog.cullenmacdonald.com/how-we-code-review</guid>
+    <description> This has been written and rewritten a couple times for a handful of different teams. Consider it a starting place/template All of our engineering work makes it to production by first passing through a code review.</description>
+    <pubDate>Wed, 27 Nov 2024 14:15:10 GMT</pubDate>
+  </item><item>
+    <title>Velocity and Story Points</title>
+    <link>https://blog.cullenmacdonald.com/velocity-and-story-points</link>
+    <guid>https://blog.cullenmacdonald.com/velocity-and-story-points</guid>
+    <description>Right now in (zoom) conference rooms across the globe, some engineering manager or product manager is talking about, defending, or setting goals around Velocity ...</description>
+    <pubDate>Wed, 27 Nov 2024 14:15:10 GMT</pubDate>
+  </item><item>
+    <title>On Agility</title>
+    <link>https://blog.cullenmacdonald.com/agility</link>
+    <guid>https://blog.cullenmacdonald.com/agility</guid>
+    <description>We spend so much time focusing on how our teams can be agile. There are methods and books and classes and certificates and tons of arguments online about the pros and cons of one way versus another.</description>
+    <pubDate>Wed, 27 Nov 2024 14:15:10 GMT</pubDate>
+  </item><item>
+    <title>Welcome to my blog</title>
+    <link>https://blog.cullenmacdonald.com/</link>
+    <guid>https://blog.cullenmacdonald.com/</guid>
+    <description></description>
+    <pubDate>Wed, 27 Nov 2024 13:42:58 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

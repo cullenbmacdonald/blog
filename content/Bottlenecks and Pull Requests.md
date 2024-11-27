@@ -1,3 +1,8 @@
+---
+lastmod: '2024-11-27 13:22:13'
+title: Bottlenecks and Pull Requests
+---
+
 This post was originally a response to a long comment on the parent post about why “all PRs must point at `main`".
 
 Let me start by saying my thinking is actually more of a belief. There is some pseudo science and anecdata baked in, but it's more based on gut checks than any cold hard facts. Bad news for you, changing someone’s belief is harder than changing someone’s thinking based on fact. Worse news for you: this is belief ive had about teams and git process for like 8 years lol.
@@ -46,3 +51,9 @@ But my challenge to you is this: plan the work in such a way that each ticket ca
 
 **In summary, push the breaking up of the work into multiple PRs** _**before**_ **you do the work. Put that plan into separate tickets, and do one ticket at a time until it is merged to main.**
 
+
+---
+Origin: response to a comment by [[Jason Liggayu]] on the original publishing of this in [[Crimson Sage]] confluence
+References: 
+Tags: #inbox/in-progress #blog/publish #whatsthepoint/notes 
+Created: [[2024-2-10]]

@@ -1,3 +1,8 @@
+---
+lastmod: '2024-11-27 13:23:00'
+title: Velocity and Story Points
+---
+
 Right now in (zoom) conference rooms across the globe, some engineering manager or product manager is talking about, defending, or setting goals around Velocity. The engineers in the room are playing along, maybe debating the pros and cons of using Fibonacci or T-Shirt sizes as the metric by which they declare the “story points” of planned work. At the same time, sometimes in the same room, product managers or company leadership is asking for a description of upcoming work in terms of “milestones” and an estimate (and commitment!) for when the upcoming work will be completed. The meeting ends and everyone agrees and then deadlines are missed, scope is cut, tech debt is ignored, and shortcuts are taken to get the desired product changes into production sooner. So what happened? Where is the disconnect between engineering velocity and shipping The Thing?
 
 Firstly, we should talk about how velocity is measured in most engineering teams (and indeed at Justworks). Typically, we talk about velocity in terms of Story Points. I asked around for definitions of what this story point estimate means and got a couple different answers. To some, it's an expression of amount of time the work will take. To others, it describes the relative complexity of the work. Either way it is an estimate on some definition of “Effort,” be it body or brain. During the scrum process, engineers go through the process of estimating the story points of tickets we are ready or just about ready to work on. Every two weeks (or whatever), the team goes through the process of picking tickets that are ready to be worked on and pulling them into a queue. Which tickets we bring in and in what order is usually the result of a group conversation. Sometimes certain work has to happen before others. Sometimes we just want to bring this thing into the sprint before that other thing for nebulous reasons. Finally, the team looks at how many total Story Points we’ve brought into the sprint and takes a pulse check on if its the Right Amount of Work for the next two weeks. Looking at historical Total Story Points Shipped Per Sprint becomes a de facto representation of the team’s velocity.
@@ -28,3 +33,9 @@ At the end of the day, there's a lot to be unpacked here. I still haven’t full
 
 Delivering Value to the business is the reason we exist as a team in the first place, maybe we should be using that as the measurement of our impact.
 
+---
+
+Origin: written internally for [[Justworks]]
+References: [[Story Points]] [[02 - areas/inbox/Agile|Agile]]
+Tags: #inbox/in-progress #wtp-draft #blog/publish
+Created: [[2024-08-15]]

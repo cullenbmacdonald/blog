@@ -1,3 +1,8 @@
+---
+lastmod: '2024-11-27 13:22:43'
+title: Value Based Velocity
+---
+
 Ok so we want to measure our velocity in terms of value shipped, but how do you do that? Here is one such way. I encourage you to to take this and create a new sprint process for your team or (better yet) fit it into your current process.
 
 Core concepts:
@@ -35,3 +40,9 @@ Curious about how you might iterate your way towards this without dramatically c
 Have the PM do their ideal ranking, ignoring effort. Make adjustments to the value so that it's still Largest to Smallest by increasing value estimates on things that were moved up, and decreasing things that were moved down. Now the engineer gets to ask questions. Why is _this_ large value? The engineer might be able to offer some reasoning behind why certain things are higher effort than the PM expected. Maybe this can turn into a conversation about other (easier) ways to get the same value.
 
 These are baby steps in the direction and allows various leaders on the team to start getting comfortable with this way of thinking about work.
+
+---
+Origin: 
+References: [[Story Points]] [[Agile]]
+Tags: #inbox/in-progress #blog/publish #blog/draft #whatsthepoint/notes 
+Created: [[2024-03-15]]

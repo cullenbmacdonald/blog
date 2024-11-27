@@ -1,3 +1,8 @@
+---
+lastmod: '2024-11-27 13:09:07'
+title: On Agility
+---
+
 We spend so much time focusing on how our teams can be agile. There are methods and books and classes and certificates and tons of arguments online about the pros and cons of one way versus another. Whats the point of agility? Why is agility the goal? Are you sure you actually want that?
 
 Theres some fear around moving Not Fast Enough among software teams. Someone else will beat you! Theres also the reality that you probably work for a company that is spending more money than it is bringing in, so every day you spend time on the Wrong Thing, every sprint you “miss” by a couple days, every quarter where you don’t hit the sales numbers or don’t ship that feature is gone and you’re now one quarter closer to having no more money. 
@@ -9,3 +14,9 @@ There seems to be two Actual Outcomes when some new piece of information is lear
 The other outcome (the one I think is the funniest) is that your “agile” method literally prevents you and your team from shifting gears because the process you’ve put in place is too rigid. “We can’t just add an extra week to the current sprint, we have all the meetings already scheduled.” “We can’t just do a random grooming meeting before we do our sprint planner, that’s not how we do this!” 
 
 I don’t really have a diagnosis for this problem. I think we need to think about if we actually want to be Agile or not. I think it’s ok to not be, but we should just be honest about it because then we can actually build a process that enables us to do the right work. I think some projects probably require a specifically non-agile way of planning and executing the work. I think if we do want to be agile, we need to be more agile about The Way We Do Agile.
+
+---
+Origin:  
+References: [[Agile]] 
+Tags: #inbox/in-progress #wtp-draft #blog/publish
+Created: [[2024-11-05]]
